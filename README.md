@@ -10,7 +10,7 @@ Make sure the shared Docker network is created (run only once):
 
 ```bash
 docker network create myapp
-```f
+```
 ## 🔧 Jenkins Job Setup (backend)
 
     Go to Jenkins:
